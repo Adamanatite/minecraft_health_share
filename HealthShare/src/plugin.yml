@@ -1,0 +1,8 @@
+name: HealthShare
+version: 0.1
+author: Adamm
+main: me.adamm.healthshare.Main
+description: A plugin where all players share damage
+commands:
+   hstoggle:
+      description: Toggles the health share
